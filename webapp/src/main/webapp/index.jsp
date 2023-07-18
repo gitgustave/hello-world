@@ -3,7 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <h2> Salut  </h2>
        <p> Check scm build   </p>
-       <p> Check auto build from Docker container ### </p>
+       <p> Check auto build from Docker container </p>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
