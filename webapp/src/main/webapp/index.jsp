@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h2> Salut  </h2>
-       <p> Check scm build  #check copy  </p>
+       <p> Check scm build  final check for docker auto deploy </p>
        <p> Check auto build from Docker container </p>
     <p>Please fill in this form to create an account.</p>
     <hr>
