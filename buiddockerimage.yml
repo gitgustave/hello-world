@@ -1,0 +1,9 @@
+---
+# this build playbook, with chdir(change directory) argument will build docker image from Dockerfile locate in /opt/docker. No matter the location where we run the playbook from because chdir will complete the task from indicate path
+- hosts: ansible
+  tasks:
+    - name: build docker image
+      command: docker build -t myregapp:v2 .
+      args:
+       chdir: /opt/docker
+
